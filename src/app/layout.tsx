@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Baystone",
+  title: "Baystone Design",
   description: "Outdoor utility and ambiance.",
   icons: {
     icon: '/baystoneicon.ico',

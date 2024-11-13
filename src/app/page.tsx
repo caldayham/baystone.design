@@ -15,7 +15,10 @@ export default function Home() {
           BAYSTONE DESIGN
         </h1>
         <p className="mt-2 text-base">
-          Outdoor utility and ambiance.
+          Quality outdoor utility and ambiance.
+        </p>
+        <p className="mt-2 text-base">
+          Thoughtfully designed, built to last.
         </p>
       </div>
 
