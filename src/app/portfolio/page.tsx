@@ -1,7 +1,7 @@
 // PortfolioPage.tsx
 import React from 'react';
 import PortfolioItem from './_components/PortfolioItem';
-import portfolioData from '@/src/data/portfolioTestData.json';
+import portfolioData from '@/data/portfolioTestData.json';
 
 const PortfolioPage = () => {
   return (
