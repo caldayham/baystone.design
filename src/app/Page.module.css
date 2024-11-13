@@ -1,0 +1,12 @@
+/* styles/Background.module.css */
+.backgroundContainer {
+    @apply absolute inset-0 bg-center bg-no-repeat opacity-10;
+    background-image: url('/favicon.ico');
+    background-size: 80%;
+  }
+  
+  @screen lg {
+    .backgroundContainer {
+      background-size: 960px;
+    }
+  }
