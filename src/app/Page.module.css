@@ -1,7 +1,7 @@
 /* styles/Background.module.css */
 .backgroundContainer {
     @apply absolute inset-0 bg-center bg-no-repeat opacity-10;
-    background-image: url('/favicon.ico');
+    background-image: url('/baystoneicon.ico');
     background-size: 80%;
   }
   
