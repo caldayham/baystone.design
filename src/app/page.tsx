@@ -5,7 +5,7 @@ import styles from "./Page.module.css";
 
 export default function Home() {
   return (
-    <div className="relative flex flex-col items-center justify-center min-h-screen bg-gray-800 text-white p-4">
+    <main className="relative flex flex-col items-center justify-center min-h-screen bg-gray-800 text-white p-4">
       {/* Background Image */}
       <div className={styles.backgroundContainer}></div>
 
@@ -26,6 +26,6 @@ export default function Home() {
       <div className="relative w-full max-w-xl mt-4 text-center">
         <EmailCaptureForm />
       </div>
-    </div>
+    </main>
   );
 }
